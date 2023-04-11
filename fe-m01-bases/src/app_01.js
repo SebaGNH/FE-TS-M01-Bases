@@ -1,6 +1,7 @@
-var cadena = 'Hola Mundo';
+"use strict";
+const cadena = 'Hola Mundo';
 // console.log(cadena)
-var hero = {
+const hero = {
     name: 'Ironman',
     age: 45
 };
